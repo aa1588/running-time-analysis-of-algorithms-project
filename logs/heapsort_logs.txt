@@ -1,0 +1,536 @@
+*********Heapsort***********
+Compiling...
+Compilation successful.
+Running tests...
+Processing file #1: ../inputs/input.1000000.1
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.772s
+user	0m0.723s
+sys	0m0.012s
+---------------------------
+Processing file #2: ../inputs/input.100000.1
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.060s
+user	0m0.057s
+sys	0m0.000s
+---------------------------
+Processing file #3: ../inputs/input.100000.2
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.069s
+user	0m0.050s
+sys	0m0.008s
+---------------------------
+Processing file #4: ../inputs/input.100000.3
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.076s
+user	0m0.059s
+sys	0m0.000s
+---------------------------
+Processing file #5: ../inputs/input.100000.4
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.085s
+user	0m0.059s
+sys	0m0.000s
+---------------------------
+Processing file #6: ../inputs/input.100000.5
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.061s
+user	0m0.058s
+sys	0m0.000s
+---------------------------
+Processing file #7: ../inputs/input.10000.1
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.009s
+user	0m0.007s
+sys	0m0.000s
+---------------------------
+Processing file #8: ../inputs/input.10000.2
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.009s
+user	0m0.007s
+sys	0m0.000s
+---------------------------
+Processing file #9: ../inputs/input.10000.3
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.009s
+user	0m0.007s
+sys	0m0.000s
+---------------------------
+Processing file #10: ../inputs/input.10000.4
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.009s
+user	0m0.007s
+sys	0m0.000s
+---------------------------
+Processing file #11: ../inputs/input.10000.5
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.009s
+user	0m0.003s
+sys	0m0.003s
+---------------------------
+Processing file #12: ../inputs/input.1000.1
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #13: ../inputs/input.1000.2
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.005s
+user	0m0.000s
+sys	0m0.003s
+---------------------------
+Processing file #14: ../inputs/input.1000.3
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.010s
+user	0m0.003s
+sys	0m0.000s
+---------------------------
+Processing file #15: ../inputs/input.1000.4
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.005s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #16: ../inputs/input.1000.5
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 1000
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #17: ../inputs/input.100.1
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.005s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #18: ../inputs/input.100.2
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #19: ../inputs/input.100.3
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #20: ../inputs/input.100.4
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.011s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #21: ../inputs/input.100.5
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 100
+========================================
+Input is too large to display
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.002s
+---------------------------
+Processing file #22: ../inputs/input.10.1
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+7 3 6 10 6 11 3 19 13 9 
+And this is the sorted output:
+3 3 6 6 7 9 10 11 13 19 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.002s
+---------------------------
+Processing file #23: ../inputs/input.10.2
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+1 10 18 5 20 11 11 6 17 12 
+And this is the sorted output:
+1 5 6 10 11 11 12 17 18 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #24: ../inputs/input.10.3
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+9 20 19 1 4 1 12 4 15 19 
+And this is the sorted output:
+1 1 4 4 9 12 15 19 19 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #25: ../inputs/input.10.4
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+8 5 18 7 15 12 20 8 13 11 
+And this is the sorted output:
+5 7 8 8 11 12 13 15 18 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #26: ../inputs/input.10.5
+
+
+========================================
+Checking if HeapSort works ...
+Input size: 10
+========================================
+This it the input:
+9 1 9 16 2 5 5 18 9 2 
+And this is the sorted output:
+1 2 2 5 5 9 9 9 16 18 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Total files processed: 26
+✅ All 26 files processed successfully!

@@ -1,0 +1,349 @@
+******** Insertion sort *********
+Compiling...
+Compilation successful.
+Running tests...
+Processing file #1: ../inputs/input.1000000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	31m18.706s
+user	30m19.688s
+sys	0m3.652s
+---------------------------
+Processing file #2: ../inputs/input.100000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.238s
+user	0m18.054s
+sys	0m0.020s
+---------------------------
+Processing file #3: ../inputs/input.100000.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.484s
+user	0m17.992s
+sys	0m0.016s
+---------------------------
+Processing file #4: ../inputs/input.100000.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.913s
+user	0m18.031s
+sys	0m0.060s
+---------------------------
+Processing file #5: ../inputs/input.100000.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.775s
+user	0m18.031s
+sys	0m0.040s
+---------------------------
+Processing file #6: ../inputs/input.100000.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m18.786s
+user	0m18.012s
+sys	0m0.032s
+---------------------------
+Processing file #7: ../inputs/input.10000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.196s
+user	0m0.182s
+sys	0m0.000s
+---------------------------
+Processing file #8: ../inputs/input.10000.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.187s
+user	0m0.178s
+sys	0m0.004s
+---------------------------
+Processing file #9: ../inputs/input.10000.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.187s
+user	0m0.182s
+sys	0m0.000s
+---------------------------
+Processing file #10: ../inputs/input.10000.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.205s
+user	0m0.182s
+sys	0m0.000s
+---------------------------
+Processing file #11: ../inputs/input.10000.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.212s
+user	0m0.179s
+sys	0m0.004s
+---------------------------
+Processing file #12: ../inputs/input.1000.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.006s
+user	0m0.004s
+sys	0m0.000s
+---------------------------
+Processing file #13: ../inputs/input.1000.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.006s
+user	0m0.004s
+sys	0m0.000s
+---------------------------
+Processing file #14: ../inputs/input.1000.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.006s
+user	0m0.000s
+sys	0m0.003s
+---------------------------
+Processing file #15: ../inputs/input.1000.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.006s
+user	0m0.003s
+sys	0m0.000s
+---------------------------
+Processing file #16: ../inputs/input.1000.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.006s
+user	0m0.003s
+sys	0m0.000s
+---------------------------
+Processing file #17: ../inputs/input.100.1
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #18: ../inputs/input.100.2
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.001s
+---------------------------
+Processing file #19: ../inputs/input.100.3
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.000s
+---------------------------
+Processing file #20: ../inputs/input.100.4
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.007s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #21: ../inputs/input.100.5
+Sorted output is too large to display
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Processing file #22: ../inputs/input.10.1
+And this is the sorted output:
+3 3 6 6 7 9 10 11 13 19 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.000s
+---------------------------
+Processing file #23: ../inputs/input.10.2
+And this is the sorted output:
+1 5 6 10 11 11 12 17 18 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.000s
+---------------------------
+Processing file #24: ../inputs/input.10.3
+And this is the sorted output:
+1 1 4 4 9 12 15 19 19 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.002s
+---------------------------
+Processing file #25: ../inputs/input.10.4
+And this is the sorted output:
+5 7 8 8 11 12 13 15 18 20 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.000s
+---------------------------
+Processing file #26: ../inputs/input.10.5
+And this is the sorted output:
+1 2 2 5 5 9 9 9 16 18 
+Checking if the output is actually sorted ...
+	The output is sorted
+========================================
+
+
+
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+---------------------------
+Total files processed: 26
+✅ All 26 files processed successfully!
